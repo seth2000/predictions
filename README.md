@@ -26,3 +26,9 @@ class 都是 抽象 (abstract)， abstract class (虚类）侧重概念 - 无为
 ## 预测
 
 当我们有sdk资源时，我们可以debug系统的运行，理论上所有的参数都是伪随机数，只要输入同样的参数，输出就是一样的。
+
+## NPC or Player
+
+我们是这个世界的 NPC (non-player character) 还是Player？
+
+
