@@ -39,6 +39,6 @@
 ## NPC or Player
 
 * 我们是这个世界的 NPC (non-player character) 还是Player？
-* 就普遍而言，我们应该是这个世界里面的NPC, 来自外部Palyer 也一定存在，存在方式不确定。
+* 就普遍而言，我们应该是这个世界里面的NPC, 来自外部Palyer 也一定存在，存在方式不确定(各种各样，不是只有直接控制一种方法)。
 
 
