@@ -20,7 +20,7 @@ class 都是 抽象 (abstract)， abstract class (虚类）侧重概念 - 无为
 
 世界（宇宙）是一个正在运行的大型虚拟系统（）。这样的世界（class）可能有许多个，但我们所在的宇宙（instance）只会有一个。A cloned object is new object.
 
-我（Object）是人类（class）的一个实例（instance），这种概念分是以把我当作一个Object来看的, 我（Object）实现了 state pattern.
+我（Object）是人类（class）的一个实例（instance），这种概念是以把我当作一个Object来看的, 我（Object）实现了 state pattern.
 (State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.)
 
 ## 预测
