@@ -23,6 +23,13 @@ class 都是 抽象 (abstract)， abstract class (虚类）侧重概念 - 无为
 我（Object）是人类（class）的一个实例（instance），这种概念是以把我当作一个Object来看的, 我（Object）实现了 state pattern.
 (State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.)
 
+## 虚类 
+
+can't use this (me)， 无我
+can't instantized     无人
+can't  multiple inheritance  无众生
+no new and dispose method, no life time      无寿者
+
 ## 预测
 
 当我们有sdk资源时，我们可以debug系统的运行，理论上所有的参数都是伪随机数，只要输入同样的参数，输出就是一样的。
