@@ -1,5 +1,9 @@
 # predictions
 
+## 明心见性 Consciousness
+
+Nothing else but understanding the abstract "I"
+
 ## 2021/07/20 回收台湾
 * 诗曰 欲进又徘徊，心危事不危。水边人指引，名利得荣归。
 * The prophetic poem said that I wanted to go forward, but it was just doubting and wandering. My heart was in danger, but in fact everything was fine. When I am guided by people living by the water, fame and fortune will be rewarded.
@@ -23,20 +27,20 @@
 * 我（Object）是人类（class）的一个实例（instance），这种概念是以把我当作一个Object来看的, 我（Object）实现了 state pattern.
 (State is a behavioral design pattern that lets an object alter its behavior when its internal state changes. It appears as if the object changed its class.)
 
-## 虚类 
+## 我的本质是一个虚类 (The concept “I” is actual an abstract class.）
 
 * can't use this (me)， 无我
 * can't instantized     无人
 * can't  multiple inheritance  无众生
 * no new and dispose method, no life time      无寿者
 
-## 预测
+## 预测 (The prodict principle)
 
 * 当我们有sdk资源时，我们可以debug系统的运行，理论上所有的参数都是伪随机数，只要输入同样的参数，输出就是一样的。
 * 精确的测试应该能在这个世界之外完成，就测试原则来说，不能在运行的系统之中做测试，我们总要分离测试数据和测试结果才能得到正确的测试或训练系统模型。
 
 
-## NPC or Player
+## Our world is a virtual online games, we are NPCs or Players
 
 * 我们是这个世界的 NPC (non-player character) 还是Player？
 * 就普遍而言，我们应该是这个世界里面的NPC, 来自外部Palyer 也一定存在，存在方式不确定(各种各样，不是只有直接控制一种方法)。
